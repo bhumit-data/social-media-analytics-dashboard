@@ -8,9 +8,7 @@ Built entirely from scratch as a learning and portfolio project — including mo
 
 ## 🖼️ Dashboard Preview
 
-> Add your dashboard screenshot here after uploading it to the repo
-> `![Dashboard Preview](dashboard_preview.png)`
-
+![Dashboard Preview](dashboard_preview.png)
 ---
 
 ## ✨ Features
